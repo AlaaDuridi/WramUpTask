@@ -2,7 +2,7 @@ import {Box, Button, ButtonGroup, Grid2 as Grid, Typography} from '@mui/material
 import SearchBar from './components/SearchBar';
 import {Fragment} from "react";
 import ListOfMembers from "./components/ListOfMembers";
-import MyButton from "./components/Button/Button.jsx";
+import MyButton from "./components/Button";
 
 
 const App = () => {
