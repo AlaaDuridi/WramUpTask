@@ -69,7 +69,7 @@ const App = () => {
                                 <Grid item>
                                     <MyButton
                                         variant="contained"
-                                        text="Cancel"
+                                        text="Save"
                                         sx={{
                                             background: "linear-gradient(to right, #56CCF2, #2F80ED)",
                                             color: "white",
